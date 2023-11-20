@@ -1,5 +1,5 @@
 {
-  "name": "dummy-npm-pkg",
+  "name": "@aalves08/dummy-npm-pkg",
   "version": "1.0.0",
   "description": "Just a dummy npm pkg for testing",
   "main": "index.js",
