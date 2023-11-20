@@ -1,0 +1,19 @@
+{
+  "name": "dummy-npm-pkg",
+  "version": "1.0.0",
+  "description": "Just a dummy npm pkg for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalves08/dummy-npm-pkg.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalves08/dummy-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/aalves08/dummy-npm-pkg#readme"
+}
