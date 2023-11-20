@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aalves08/dummy-npm-pkg/issues"
   },
-  "homepage": "https://github.com/aalves08/dummy-npm-pkg#readme"
+  "homepage": "https://github.com/aalves08/dummy-npm-pkg#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
