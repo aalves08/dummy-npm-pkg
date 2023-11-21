@@ -1,3 +1,3 @@
 export function sayHello() {
-    console.log("Hello from dummy NODE pkg - FIRST ONE!!!!!");
+    console.error("Hello from dummy NODE pkg - FIRST ONE!!!!!");
 }
